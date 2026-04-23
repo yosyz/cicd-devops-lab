@@ -1,0 +1,24 @@
+{
+  "name": "cicd-devops-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test:coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yosyz/cicd-devops-lab.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yosyz/cicd-devops-lab/issues"
+  },
+  "homepage": "https://github.com/yosyz/cicd-devops-lab#readme",
+  "devDependencies": {
+    "jest": "^30.3.0"
+  }
+}
